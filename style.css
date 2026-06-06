@@ -132,3 +132,24 @@ input[type="submit"] {
     height: 40px;
     padding: 0 2px;
 }
+
+footer {
+    text-align: center;
+    height: 50px;
+}
+
+footer a {
+    color: #000;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.text-small {
+    font-size: 12px;
+    font-weight: bold;
+    color: grey;
+    text-transform: uppercase;
+    padding-right: 20px;
+    display: inline-block;
+}
